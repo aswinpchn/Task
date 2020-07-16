@@ -1,0 +1,7 @@
+I got this task from a company called Quantil for internship.
+
+Requirements:
+1. Create a command line application for the following requirement.
+2. A script to generate log file for some servers for a day.
+3. Query feature to get a particular log for a server at particular time.
+4. For detailed requirements, see the attached document.

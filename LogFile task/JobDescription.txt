@@ -1,0 +1,41 @@
+https://cdnetworks.jobs.net/en-US/job/us-software-engineer-intern-portal-api/J3R6T773GT6J36N8X1Q
+
+JOB DESCRIPTION
+
+	OVERVIEW
+	QUANTIL, Inc. is looking for a Software Engineer Intern to support the Portal/API team on the design and development of our global content delivery platform.
+
+	We are looking for final year students who love coding and new technologies – so if this sounds like you, then we are the company for you!
+
+	You will have opportunities to hone your skills, collaborate with technical experts, and get involved in a variety of projects that will play an impactful role in the growth of the Company. Outstanding interns may be considered for full-time employment after graduation.
+
+	RESPONSIBILITIES
+	Designing and developing highly effective Java-based web applications from inception to release using Spring MVC
+	Interacting with other team members to translate requirements into complete designs
+	Documenting and testing, preferably in an automated manner, your applications
+	Implementing designs using Agile methodology.
+
+JOB REQUIREMENTS
+
+	REQUIREMENTS
+	Majoring in Computer Science/Engineering, or relevant engineering/science fields
+	2+ years’ experience in development using Java
+	1 years’ experience in development using JavaScript
+	2+ years’ experience with Linux system and basic Shell script programming
+	2+ years’ experience using Spring MVC
+	Good understanding of computer networks and TCP/IP, DNS and HTTP
+
+	Familiarity with the following:
+	Large scale system deployment and automation
+	Webserver technologies (i.e. Apache, Nginx, Tomcat, etc.)
+	Database experience, particularly MySQL is a plus
+	Experience building REST APIs highly desired
+	Experience with documenting and automated testing of code, i.e. using Junit, highly desired
+	Experience with JavaScript frameworks, i.e. AngularJS or react.js is a plus
+	Experience with JavaScript testing frameworks, i.e. Mocha is a plus
+	Experience implementing web user interfaces is a plus
+	Experience with open source, such as utilizing open source components would be a bonus
+	
+	Attributes:
+	Must be self- motivated, hands-on, detail-oriented, have the ability to thrive in a team environment, and perform beyond expectations
+	Good communication skills

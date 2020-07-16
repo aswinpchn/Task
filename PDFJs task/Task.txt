@@ -1,0 +1,6 @@
+This was a task I got from a company for internship.
+
+Requirements:
+1. The task is to Use PDFJs to create a webapp that displays PDF's and has controls for pdf view like Zoom, scroll etc.
+2. The task has to be done with VueJs as frontend.
+3. Consider that the PDF's are already stored in the server. (The utility package I used is some package called 'fs' to retrieve folders from server. )
