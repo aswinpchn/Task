@@ -1,0 +1,51 @@
+Build your smart device.
+
+Note:
+  1. The physical demo can be better recorded before the session, to avoid technical mishaps during the session.
+  2. If the session is going to be pre-recorded, then also I can record individual parts of the video and stitch it together and submit it.
+
+Introduction:
+  Hi everyone, This is Aswin Prasad. I am here today to give you an introduction about IoT and then a quick session to build your IoT device using Raspberry Pi, sensors, a little bit of programming, and finally talk about the possibilities of what can be done further with IoT.
+
+  The recording of this session will be available in our materials library website, feel free to use the website to get access to the video and references mentioned in this session.
+
+Prerequisites: (Open a webpage for each of them and explain for like the 30s about each.)
+  There are some things that you will require to replicate this experiment, feel free to review to see if you understand everything correctly.
+  1. Raspberry pi 3/4 with Micro SD card and Raspian OS loaded.
+  2. LED. (For this example, feel free to experiment with some other sensors too.)
+  3. Jumper wires.
+  4. A monitor to use as a display along with HDMI cable to work with Raspberry pi.
+  5. Slight relevance to programming and curious about the Internet of Things.
+
+Introduction to the Internet of Things:
+  Simply saying, the Internet of Things is a concept in which there will be physical devices that are connected to the internet and they collect data from or output data to the world. These devices include everything from phones, smartwatches, smart home devices. Many devices that once had only physical interfaces are updated as smart devices that are part of the internet these days.
+
+Building your smart device: (Will be elaborated during the actual experiment)
+  I am going to explain to you how you can create your device. For this, we are going to have a web page, which will be used to control an led bulb.
+  The bulb can be either switched on or off based on the user input.
+
+  Play the video.
+  Open the Github Page and explain the parts in it. (github.com/aswinpchn/Task)
+
+Other project ideas:
+  The Internet of things doesn't stop here, there are endless possibilities of what can be done with IoT. You can build an automatic light control for your house, thermostat for your house that can be controlled with your homes, etc...
+  You can always get these devices in Amazon, but building them yourself with these sensors will give a sense of understanding and satisfaction for anyone who does that.
+  Project links: (https://nevonprojects.com/iot-projects/)
+
+Caution:
+  One word of caution for takeaway from this session, don't connect electric devices directly along with your IoT setup as the system we are developing is not tested thoroughly and can cause harm to life and property. You can try small utilities that interest you.
+
+References.
+  1. https://www.raspberrypi.org/help/what-%20is-a-raspberry-pi/
+  2. https://ubidots.com/blog/building-a-people-counter-with-raspberry-pi-and-ubidots/
+  3. https://nevonprojects.com/iot-projects/  
+  4. https://www.amazon.com/eBoot-Pieces-Emitting-Diodes-Assorted/dp/B06XPV4CSH/ref=sr_1_3?crid=2OYJVO0PDODCY&dchild=1&keywords=led+diodes&qid=1600764878&sprefix=led%2Caps%2C221&sr=8-3
+  5. https://www.amazon.com/EDGELEC-Breadboard-Optional-Assorted-Multicolored/dp/B07GD2BWPY/ref=sr_1_3?crid=3NR1T5Z4FIRJR&dchild=1&keywords=jumper+wires&qid=1600764924&sprefix=jump%2Caps%2C222&sr=8-3  
+
+
+
+
+
+
+
+
