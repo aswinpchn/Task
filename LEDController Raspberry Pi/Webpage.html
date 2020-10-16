@@ -1,0 +1,30 @@
+<HTML>
+	<HEAD>
+		<TITLE>Light Controller</TITLE>
+		<script>
+			const switchOn = async () => {
+				console.log('Switch On');
+				try {
+					const response = await fetch('http://localhost:8082/on'); // Changes the status text file.
+					console.log(response);
+				} catch(ex) {
+					console.log(ex);
+				}
+			}
+			const switchOff = async () => {
+				console.log('Switch Off');
+				try {
+					const response = await fetch('http://localhost:8082/off'); // Changes the status text file.
+					console.log(response);
+				} catch(ex) {
+					console.log(ex);
+				}
+			}
+		</script>
+	</HEAD>
+	</BODY>
+		<H1> Wireless LED control using Raspberry Pi </H1>
+		<button type="button" class="btn btn-primary" onClick="switchOn()">Switch-On</button>
+		<button type="button" class="btn btn-primary" onClick="switchOff()">Switch-Off</button>
+	</BODY>
+</HTML>
