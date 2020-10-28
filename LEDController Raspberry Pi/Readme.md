@@ -19,3 +19,11 @@ This project is about how to control an LED from a web page. There are a number 
 2. HTML, Javascript to design UI.
 
 3. NodeJs server to access storage components.
+
+### How to run.
+
+1. Run command `python3 LEDController.py` (Python3 should be installed in your Raspberry pi).
+
+2. Run command `node server.js` (Node Js should be installed).
+
+3. Open the HTML file in chrome browser.
